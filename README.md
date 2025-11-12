@@ -53,7 +53,7 @@ The dashboard helps measure campaign effectiveness, audience engagement, and spe
 
 ## 👤 Author
 Pavan A.P  
-🔗 LinkedIn: https://www.linkedin.com/in/pavanap
+🔗 LinkedIn: http://www.linkedin.com/in/pavan-ap-1455a0261
 
 ✉ Gmail:appavan9@gmail.com
 
