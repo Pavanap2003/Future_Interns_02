@@ -11,7 +11,11 @@ An interactive *Power BI* dashboard that visualizes Facebook advertising perform
 The dashboard helps measure campaign effectiveness, audience engagement, and spend distribution to enable data-driven marketing decisions.
 
 ---
+🧩 Dataset Source
 
+Source: https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign
+
+---
 ## 📘 Dashboard Highlights
 - *KPI Cards:* Total Ad Spend, Total Impressions, Total Clicks, Total Approved  
 - *Impressions by Age Group* — horizontal bar chart to see reach by age brackets  
